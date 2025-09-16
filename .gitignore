@@ -1,0 +1,33 @@
+# --- Environnement virtuel ---
+venv/
+env/
+.venv/
+
+# --- Fichiers Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Configurations ---
+*.env
+*.ini
+*.cfg
+*.toml
+*.log
+.
+# --- IDE et éditeurs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+
+# --- Tests ---
+.coverage
+.pytest_cache/
+.tox/
+.mypy_cache/
