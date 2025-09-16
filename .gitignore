@@ -15,7 +15,8 @@ __pycache__/
 *.cfg
 *.toml
 *.log
-.
+data 
+
 # --- IDE et éditeurs ---
 .vscode/
 .idea/
