@@ -16,7 +16,7 @@ Ce projet utilise Python et gère l'annotation de données textuelles pour être
 
 1. **Cloner le dépôt :**
 ```bash
-git clone https://github.com/<ton-utilisateur>/doccano_annotation_data.git
+git clone https://github.com/valisoa2002/doccano_annotation_data.git
 cd doccano_annotation_data
 ```
 
